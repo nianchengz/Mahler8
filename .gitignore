@@ -1,0 +1,2 @@
+# Local full-text evidence; preserve locally but do not publish to Git.
+sources_raw/
