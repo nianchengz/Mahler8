@@ -6,7 +6,7 @@ Repeated mentions of the same work were consolidated. For an edited collection, 
 
 ## Already matched to local full text
 
-The following older records do have corresponding local full text and are therefore excluded from the missing tables: Batstone 2019 thesis; Devutsky 2016; Goethe's German *Faust II*; Latham's English *Faust I–II*; Mullan Volume 1; Papanikolaou 2017; West 2015.
+The following older records do have corresponding local full text and are therefore excluded from the missing tables: Batstone 2019 thesis; Devutsky 2016; Goethe's German *Faust II*; Latham's English *Faust I–II*; Mullan Volume 1; Papanikolaou 2017; West 2015; and Bauer 2023 (SRC-023). The 2026-09-02 acquisition also supplies Jeremy Barham's Kappel-volume chapter as a readable legacy Word manuscript, but not the rest of that volume.
 
 ## A. Direct Mahler VIII scholarship absent locally
 
@@ -24,26 +24,26 @@ The following older records do have corresponding local full text and are theref
 | MF-010 | David B. Greene, *Mahler, Consciousness and Temporality* (1984) | Metadata/TOC only | MISSING FULL TEXT |
 | MF-011 | Carl Niekerk, “Mahler's Goethe,” *The Musical Quarterly* 89/2–3 (2006/07), pp. 237–272 | Abstract/extract reviewed in older notes | MISSING FULL TEXT |
 | MF-012 | James L. Zychowicz, “Mahler's Eighth and the Faust Symphonic Tradition,” in *The Oxford Handbook of Faust in Music* (2019), pp. 187–202 | Abstract only | MISSING FULL TEXT |
-| MF-013 | Dorothee Bauer, “‘Veni Creator Spiritus’: Der Heilig-Geist-Hymnus in Gustav Mahlers Achter Sinfonie,” *COMMUNIO* 52 (2023), pp. 76–87 | Abstract only | MISSING FULL TEXT |
+| MF-013 | Dorothee Bauer, “‘Veni Creator Spiritus’: Der Heilig-Geist-Hymnus in Gustav Mahlers Achter Sinfonie,” *COMMUNIO* 52 (2023), pp. 76–87 | Complete image-only article locally verified | RESOLVED: FULL TEXT is SRC-023 |
 | MF-014 | Peter Revers, “Gustav Mahler's Eighth Symphony and Max Reinhardt's Concept of Massenregie,” in *Rethinking Mahler* (2017), pp. 203–216 | Abstract only | MISSING FULL TEXT |
 | MF-015 | Vera Micznik, “Echoes of Reception History in Schumann's and Mahler's Closing Scene of Goethe's Faust,” *Nachrichten zur Mahler-Forschung* 78 (2026) | Metadata only | MISSING FULL TEXT |
-| MF-016 | Elisabeth Kappel (ed.), *The Total Work of Art: Mahler's Eighth Symphony in Context* (2011) | Full table of contents only | MISSING ENTIRE VOLUME except no overlap with the locally held sources |
+| MF-016 | Elisabeth Kappel (ed.), *The Total Work of Art: Mahler's Eighth Symphony in Context* (2011) | Full table of contents plus local manuscript of Jeremy Barham's chapter | PARTIAL ONLY: Barham chapter is SRC-016; all other chapters and the published volume are missing |
 | MF-017 | Eveline Nikkels and Robert Becqué (eds.), *A “Mass” for the Masses: Proceedings of the Mahler VIII Symposium* (1992) | Full table of contents and pagination only | MISSING ENTIRE VOLUME |
 
 ### Chapter-level consequence of MF-016 and MF-017
 
-Because both collections are absent, none of the chapter texts listed in the old TOCs is locally available. This includes Kappel-volume chapters by Roman, Wildhagen, Dorschel, Barham, Painter, Krones, Kappel, Aringer, Deaville, McClatchie, Williamson, Wright, Korte, and Revers; and symposium chapters by Wagner, Comini, Blaukopf, van Uitert, van Zwol, Overman, Hansen, Werck, von Bohrman, Ostwald, Floros, La Grange, Nikkels, Lieberwirth, Bloomfield, Flothuis, Mitchell, and Becqué. A TOC association must not be converted into a claim about any chapter's argument.
+The Kappel volume remains absent except for Jeremy Barham's chapter manuscript (SRC-016). The other Kappel chapters by Roman, Wildhagen, Dorschel, Painter, Krones, Kappel, Aringer, Deaville, McClatchie, Williamson, Wright, Korte, and Revers are not locally available. The Nikkels/Becqué symposium remains entirely absent, including chapters by Wagner, Comini, Blaukopf, van Uitert, van Zwol, Overman, Hansen, Werck, von Bohrman, Ostwald, Floros, La Grange, Nikkels, Lieberwirth, Bloomfield, Flothuis, Mitchell, and Becqué. A TOC association must not be converted into a claim about any absent chapter's argument.
 
 ## B. Intellectual, Goethe/Faust, Vienna, and reception context absent locally
 
 | ID | Reference | Older-record status or relationship | Local status |
 |---|---|---|---|
-| MF-018 | Carl Niekerk, *Reading Mahler: German Culture and Jewish Identity in Fin-de-Siècle Vienna* (2010), especially pp. 154–177 | Bibliographic recommendation | MISSING FULL TEXT |
+| MF-018 | Carl Niekerk, *Reading Mahler: German Culture and Jewish Identity in Fin-de-Siècle Vienna* (2010), especially pp. 154–177 | Local file contains only the introduction, pp. 1–25 | PARTIAL ONLY: introduction is SRC-012; Mahler VIII chapter pp. 154–177 and remainder are missing |
 | MF-019 | Stephen E. Hefling, “Justine Mahler's Faust Notebook: An Introduction,” in *Rethinking Mahler* (2017), pp. 271–298 | Metadata and an asserted research angle; argument not locally reviewable | MISSING FULL TEXT |
 | MF-020 | Caroline A. Kita, “Student Culture in 1870s Vienna,” in *Mahler in Context* (2020), pp. 32–39 | Metadata/summary only | MISSING FULL TEXT |
 | MF-021 | William J. McGrath, *Dionysian Art and Populist Politics in Austria* (1974) | Bibliographic recommendation | MISSING FULL TEXT |
 | MF-022 | Leah Batstone, *Mahler's Nietzsche: Politics and Philosophy in the Wunderhorn Symphonies* (2023) | Bibliographic recommendation; related to but not proven identical with the local 2019 thesis | MISSING FULL TEXT / VERSION COMPARISON NEEDED |
-| MF-023 | Jane K. Brown, *Goethe's Faust: The German Tragedy* (1986) | Bibliographic recommendation | MISSING FULL TEXT |
+| MF-023 | Jane K. Brown, *Goethe's Faust: The German Tragedy* (1986) | Hans Rudolf Vaget's review is local as SRC-017 | MISSING FULL TEXT: a review is not the Brown monograph |
 | MF-024 | Lorraine Byrne Bodley (ed.), *Music in Goethe's Faust: Goethe's Faust in Music* (2017) | Whole volume recommended | PARTIAL ONLY: Papanikolaou chapter pp. 183–198 is local; all other chapters missing |
 | MF-025 | Cathal Mullan, *Poetry Into Song*, Volume 2 (2018), musical appendices/scores | Companion volume and direct repository link recorded | MISSING LOCAL FULL TEXT |
 | MF-026 | Marshall Berman, “Goethe's Faust: The Tragedy of Development,” in *All That Is Solid Melts into Air* | Bibliographic recommendation; explicitly a later modernity reading | MISSING FULL TEXT |
@@ -51,7 +51,7 @@ Because both collections are absent, none of the chapter texts listed in the old
 | MF-028 | Steven Beller (ed.), *Rethinking Vienna 1900* (2012) | Bibliographic recommendation | MISSING FULL TEXT |
 | MF-029 | Julian Johnson, *Mahler's Voices* (2009), ch. 7, “Vienna, Modernism, and Modernity” | Metadata/abstract-level reference | MISSING FULL TEXT |
 | MF-030 | Karen Painter (ed.), *Mahler and His World* (2002) | Bibliographic recommendation | MISSING FULL TEXT |
-| MF-031 | Theodor W. Adorno, *Mahler: A Musical Physiognomy*, especially ch. 7, “Decay and Affirmation” | Bibliographic recommendation | MISSING FULL TEXT |
+| MF-031 | Theodor W. Adorno, *Mahler: A Musical Physiognomy*, especially ch. 7, “Decay and Affirmation” | Arbo (SRC-011) provides secondary discussion; Barham (SRC-016) quotes and applies Adorno | MISSING FULL TEXT: secondary mediation is not Adorno's own text |
 | MF-032 | Jeremy Barham (ed.), *Rethinking Mahler* (2017) | Whole volume recommended; individual Revers and Hefling chapters are separately indexed but also absent | MISSING FULL TEXT |
 
 ## C. Theology and hymnology absent locally
@@ -61,7 +61,7 @@ Because both collections are absent, none of the chapter texts listed in the old
 | MF-033 | Hymnary, “Veni Creator Spiritus” | Online reference page named for authorship/date/liturgical baseline | NO LOCAL CAPTURE; not a substitute for a critical hymnological source |
 | MF-034 | Hymnology Archive, “Veni Creator Spiritus” | Online reference page named for authorship, melody, and manuscript discussion | NO LOCAL CAPTURE; scholarly authority must be evaluated before use |
 
-There is no local critical text, manuscript study, chant source, liturgical history, or specialist theological study of *Veni Creator Spiritus*. This is a more serious gap than the existence of two interpretive Mahler articles might suggest.
+SRC-023 Bauer now provides the full Latin text as Mahler set it, change/order notation, a qualified authorship and manuscript overview, Western liturgical use, and a specialist theological reading. This resolves the evidence needed for the short Core 07 task. The underlying critical hymn editions and chant/manuscript studies cited by Bauer are not themselves local, and MF-033/MF-034 remain uncaptured; these are advanced-verification gaps rather than drafting blockers. SRC-024 does not improve the situation because `western_veni_creator_dossier.pdf` is a zero-byte empty file.
 
 ## D. Hesse/Jung comparative references absent locally
 
