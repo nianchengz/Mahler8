@@ -4,7 +4,11 @@ export default defineConfig({
   title: '馬勒第八號交響曲讀本',
   description: '專為團員與愛樂者設計的深度導讀與思想背景探索',
   base: '/Mahler8/',
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/Mahler8/logo.svg' }]
+  ],
   themeConfig: {
+    logo: '/logo.svg',
     nav: [
       { text: '首頁', link: '/' },
       { text: '開始閱讀', link: '/chapters/CORE_01_READER_DRAFT' }
