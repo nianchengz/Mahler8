@@ -1,0 +1,109 @@
+/* GitBook-like clean, breathable sidebar & book layout */
+
+:root {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #2563eb;
+  --vp-sidebar-bg-color: #f8fafc;
+}
+
+.dark {
+  --vp-sidebar-bg-color: #0f172a;
+}
+
+/* 側邊欄標題群組分組間距 */
+.VPSidebarGroup {
+  margin-bottom: 20px !important;
+  padding-bottom: 8px !important;
+}
+
+/* 側邊欄分組大標題樣式：清晰、有呼吸感 */
+.VPSidebarGroup .title {
+  font-size: 0.82rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+  color: var(--vp-c-text-2) !important;
+  padding: 8px 12px 6px !important;
+  margin-bottom: 4px !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
+/* 側邊欄各章節項目間距：加大行距與 padding，避免文字黏在一起 */
+.VPLink.link.VPSidebarItem {
+  padding: 8px 12px !important;
+  margin: 3px 0 !important;
+  border-radius: 6px !important;
+  line-height: 1.5 !important;
+  font-size: 0.92rem !important;
+  transition: all 0.2s ease !important;
+}
+
+.VPLink.link.VPSidebarItem:hover {
+  background-color: var(--vp-c-default-soft) !important;
+}
+
+/* 內文排版：像一本書一樣舒服的行距與字距 */
+.VPDoc .content-container {
+  max-width: 780px !important;
+}
+
+.VPDoc p {
+  line-height: 1.85 !important;
+  margin-bottom: 1.35em !important;
+  font-size: 1.05rem !important;
+}
+
+.VPDoc h1 {
+  margin-bottom: 1.2rem !important;
+  line-height: 1.35 !important;
+}
+
+.VPDoc h2 {
+  margin-top: 2.2rem !important;
+  margin-bottom: 0.9rem !important;
+  padding-bottom: 0.4rem !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
+/* 首頁章節目錄卡片列表樣式 */
+.chapter-toc-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.toc-group-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 18px 22px;
+  background-color: var(--vp-c-bg-soft);
+}
+
+.toc-group-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 12px;
+  color: var(--vp-c-brand-1);
+}
+
+.toc-links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.toc-link-item {
+  text-decoration: none !important;
+  color: var(--vp-c-text-1) !important;
+  font-size: 0.98rem;
+  padding: 6px 8px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.toc-link-item:hover {
+  background-color: var(--vp-c-default-soft);
+  color: var(--vp-c-brand-1) !important;
+  transform: translateX(4px);
+}

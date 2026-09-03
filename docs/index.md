@@ -9,17 +9,6 @@ hero:
     - theme: brand
       text: 開始閱讀第一章 →
       link: /chapters/CORE_01_READER_DRAFT
-    - theme: alt
-      text: 查看全書目錄
-      link: /chapters/CORE_01_READER_DRAFT
-
-features:
-  - title: 零門檻、有深度的導讀
-    details: 不堆砌枯燥論文名詞，以具體問題切入，帶你理解每一段歌詞與音樂背後的思想衝突。
-  - title: 兼顧聲部與排練視野
-    details: 不只是「好聽的旋律」，更探討龐大編制如何共同發出祈求、代求與頌讚的聲音。
-  - title: 乾淨無干擾的閱讀體驗
-    details: 手機與電腦皆可流暢閱讀，章節底部附有超直覺的上一章／下一章按鈕。
 ---
 
 ## 寫在開始之前：交響曲如何裝下整個宇宙？
@@ -36,4 +25,64 @@ features:
 
 為了讓每一位即將參與演出、排練或聆聽的團員能真正走進這座音響殿堂，我們規劃了這十個章節。它將一步步拆解維也納的衝突、浮士德的賭約、救贖的真相，以及音樂家如何用聲音回應這一切。
 
-準備好了嗎？讓我們從第一章開始。
+---
+
+## 📚 全書章節目錄
+
+<div class="chapter-toc-grid">
+
+  <div class="toc-group-card">
+    <div class="toc-group-title">第一部：城市的交錯與思想背景</div>
+    <div class="toc-links">
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_01_READER_DRAFT">
+        <strong>第一章</strong>｜走進 Vienna：一座城市，幾種互不相讓的未來
+      </a>
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_02_READER_DRAFT">
+        <strong>第二章</strong>｜《浮士德》還沒寫完，為什麼先被唱出來？
+      </a>
+    </div>
+  </div>
+
+  <div class="toc-group-card">
+    <div class="toc-group-title">第二部：歌德《浮士德》的核心謎題</div>
+    <div class="toc-links">
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_03_READER_DRAFT">
+        <strong>第三章</strong>｜讀懂《浮士德》：一個永遠不能停下來的人
+      </a>
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_04_READER_DRAFT">
+        <strong>第四章</strong>｜天使奪走靈魂時，究竟誰完成了救贖？
+      </a>
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_05_READER_DRAFT">
+        <strong>第五章</strong>｜「永恆女性」牽引的「我們」，到底包括誰？
+      </a>
+    </div>
+  </div>
+
+  <div class="toc-group-card">
+    <div class="toc-group-title">第三部：青年網絡與聖歌的降臨</div>
+    <div class="toc-links">
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_06_READER_DRAFT">
+        <strong>第六章</strong>｜Berggasse 19 的鋼琴，能證明馬勒相信什麼？
+      </a>
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_07_READER_DRAFT">
+        <strong>第七章</strong>｜被聖靈寫完的交響曲，為何還要電報索取全文？
+      </a>
+    </div>
+  </div>
+
+  <div class="toc-group-card">
+    <div class="toc-group-title">第四部：音樂的跨部整合與歷史定位</div>
+    <div class="toc-links">
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_08_READER_DRAFT">
+        <strong>第八章</strong>｜兩部《馬勒第八》如何變成同一部作品？
+      </a>
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_09_READER_DRAFT">
+        <strong>第九章</strong>｜全曲最巨大的「我們」，為什麼從一口氣開始？
+      </a>
+      <a class="toc-link-item" href="/Mahler8/chapters/CORE_10_READER_DRAFT">
+        <strong>第十章</strong>｜一部作品有六種名字，哪一個才算答對？
+      </a>
+    </div>
+  </div>
+
+</div>
