@@ -1,45 +1,72 @@
-/* GitBook-like clean, breathable sidebar & book layout */
+/* GitBook-like clean, card-button style sidebar */
 
 :root {
-  --vp-c-brand-1: #3b82f6;
-  --vp-c-brand-2: #2563eb;
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #1d4ed8;
   --vp-sidebar-bg-color: #f8fafc;
 }
 
 .dark {
-  --vp-sidebar-bg-color: #0f172a;
+  --vp-sidebar-bg-color: #0b0f19;
 }
 
-/* 側邊欄標題群組分組間距 */
+/* 側邊欄大群組容器：組與組之間拉開明顯距離 */
 .VPSidebarGroup {
-  margin-bottom: 20px !important;
-  padding-bottom: 8px !important;
+  margin-bottom: 24px !important;
 }
 
-/* 側邊欄分組大標題樣式：清晰、有呼吸感 */
+/* 側邊欄分組標題（如：第一部...） */
 .VPSidebarGroup .title {
-  font-size: 0.82rem !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.05em !important;
+  font-size: 0.78rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.06em !important;
   text-transform: uppercase !important;
-  color: var(--vp-c-text-2) !important;
-  padding: 8px 12px 6px !important;
-  margin-bottom: 4px !important;
-  border-bottom: 1px solid var(--vp-c-divider) !important;
+  color: var(--vp-c-text-3) !important;
+  padding: 4px 10px 8px !important;
+  margin-bottom: 8px !important;
+  border-bottom: 1px dashed var(--vp-c-divider) !important;
 }
 
-/* 側邊欄各章節項目間距：加大行距與 padding，避免文字黏在一起 */
+/* 側邊欄各章節項目容器（Item） */
+.VPSidebarItem {
+  margin-bottom: 10px !important;
+}
+
+/* 讓每個章節變成清楚獨立的「卡片 / 按鈕」感 */
 .VPLink.link.VPSidebarItem {
-  padding: 8px 12px !important;
-  margin: 3px 0 !important;
-  border-radius: 6px !important;
-  line-height: 1.5 !important;
-  font-size: 0.92rem !important;
-  transition: all 0.2s ease !important;
+  display: block !important;
+  padding: 10px 14px !important;
+  margin: 8px 0 !important;
+  border-radius: 8px !important;
+  background-color: var(--vp-c-bg) !important;
+  border: 1px solid var(--vp-c-divider) !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03) !important;
+  line-height: 1.55 !important;
+  font-size: 0.90rem !important;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
 }
 
+/* 滑鼠懸停浮起按鈕感 */
 .VPLink.link.VPSidebarItem:hover {
-  background-color: var(--vp-c-default-soft) !important;
+  background-color: var(--vp-c-bg-mute) !important;
+  border-color: var(--vp-c-brand-1) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.06) !important;
+}
+
+/* 當前正在閱讀的章節（Active 狀態）高亮樣式 */
+.VPLink.link.VPSidebarItem.is-active {
+  background-color: #eff6ff !important;
+  border-color: var(--vp-c-brand-1) !important;
+  font-weight: 600 !important;
+  color: var(--vp-c-brand-1) !important;
+  box-shadow: 0 0 0 1px var(--vp-c-brand-1) !important;
+}
+
+.dark .VPLink.link.VPSidebarItem.is-active {
+  background-color: #172554 !important;
+  border-color: #3b82f6 !important;
+  color: #93c5fd !important;
 }
 
 /* 內文排版：像一本書一樣舒服的行距與字距 */
@@ -59,8 +86,8 @@
 }
 
 .VPDoc h2 {
-  margin-top: 2.2rem !important;
-  margin-bottom: 0.9rem !important;
+  margin-top: 2.4rem !important;
+  margin-bottom: 1rem !important;
   padding-bottom: 0.4rem !important;
   border-bottom: 1px solid var(--vp-c-divider) !important;
 }
@@ -97,13 +124,15 @@
   text-decoration: none !important;
   color: var(--vp-c-text-1) !important;
   font-size: 0.98rem;
-  padding: 6px 8px;
+  padding: 8px 12px;
   border-radius: 6px;
+  border: 1px solid var(--vp-c-divider);
+  background-color: var(--vp-c-bg);
   transition: all 0.2s ease;
 }
 
 .toc-link-item:hover {
-  background-color: var(--vp-c-default-soft);
+  border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1) !important;
   transform: translateX(4px);
 }
